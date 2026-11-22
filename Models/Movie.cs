@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace MvcMovie.Models;
+namespace WaMovie.Models;
 
 public class Movie
 {
