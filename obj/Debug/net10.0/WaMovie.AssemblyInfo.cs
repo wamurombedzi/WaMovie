@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaMovie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdfe63f6d83d6db6867ea14db91304bb68d3593f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5494d5076d30f5aceb6c77ab2232e46632d0690c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WaMovie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaMovie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
